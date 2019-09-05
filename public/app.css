@@ -1,0 +1,10 @@
+body{
+background-image: url(./images/mindtronix.jpg);
+background-color: blanchedalmond;
+background-position: unset; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover,auto; 
+}
+#container{
+align-items: center;
+}
